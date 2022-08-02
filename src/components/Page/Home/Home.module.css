@@ -1,0 +1,22 @@
+@font-face {
+    font-family: cate;
+    src: url('../../../Assets/Fonts/GAMERIA.ttf');
+}
+
+@font-face {
+    font-family: nav;
+    src: url('../../../Assets/Fonts/AmericanCaptainPatrius02Fre-PvPd.ttf');
+}
+
+.fontcate {
+    font-family: "cate" !important;
+    font-size: 40px;
+}
+
+.fontnav {
+    font-family: "nav" !important;
+}
+
+h1 {
+    color: #9d1202;
+}

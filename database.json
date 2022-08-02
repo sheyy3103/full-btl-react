@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ak-47",
+      "category": "gun",
+      "price": 229,
+      "content": "The AK-47 was designed to be a simple, reliable fully automatic rifle that could be manufactured quickly and cheaply, using mass production methods that were state of the art in the Soviet Union during the late 1940s. The AK-47 uses a long stroke gas system that is generally associated with great reliability in adverse conditions. The large gas piston, generous clearances between moving parts, and tapered cartridge case design allow the gun to endure large amounts of foreign matter and fouling without failing to cycle.",
+      "image": "https://cdn.britannica.com/s:700x500/70/123170-050-D7AAF458/AK-47.jpg"
+    },
+    {
+      "id": 2,
+      "name": "marvel-s",
+      "category": "achery",
+      "price": 329,
+      "content": "Renner trained under Olympic archers to boost his skills, though he admitted using the imagination proved just as valuable. Unlike a traditional straight-shooter, the Avengers hero pulverizes his enemies by using his bow as a blunt weapon and spinning it like a baton. \"Real archery is not superhero Hawkeye archery,\" he said.\"So [the training] kind of helped but it kind of got in the way, as well. I did train to shoot arrows.\"",
+      "image": "https://i.pinimg.com/564x/1f/91/72/1f9172f5bc27094c4e167e55f8cce2f2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "greency",
+      "category": "backpack",
+      "price": 99,
+      "content": "Greency bag suitable for both men and women is designed in solid color style or with camouflage print. With multiple pockets and a side bottle pocket, its capacity is quite ideal. When you go hiking or cycling, it is so convenient to carry this bag with you. High quality: made from 600D oxford,durable and wear-resistant.",
+      "image": "https://cdn-amz.woka.io/images/I/71370ilh3qL._SR476,476_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "shark",
+      "category": "knife",
+      "price": 147,
+      "content": "Cougar Total Black Shark knife in 440 anti-reflective black stainless steel, single-blade blade for 2/3 smooth and 1/3 serrated and on the back has a squared-toothed shark-wide groove. The handle is in black ABS, an anti-slip plastic polymer making it unique in its kind; in the hammered tail there is a hole to insert a wrist strap (not supplied).It is a military-style instrument that is light and easy to handle and for this reason it is solid, resistant and with a firm grip.",
+      "image": "https://sharg.pl/eng_pl_MAC-Coltellerie-Shark-M-Diving-Knife-with-Hammer-185mm-039BLK-108684_1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "m4a1",
+      "category": "gun",
+      "price": 249,
+      "content": "Following the adoption of the M16 rifle, carbine variants were also adopted for close quarters operations, the first of which was the CAR-15 family of weapons, which served through the Vietnam War. However, these rifles had design issues, as the barrel length was halved to 10 inches (25 cm), which upset the ballistics, reducing its range and accuracy and leading to considerable muzzle flash and blast, meaning that a large flash suppressor had to be fitted.",
+      "image": "https://ae01.alicdn.com/kf/He27910b05d8942ab9fb1e3aae5bfe9aag/1-1-M4A1-T-n-C-ng-S-ng-85Cm-3D-M-H-nh-Gi-y.jpg_Q90.jpg_.webp"
+    },
+    {
+      "id": 6,
+      "name": "sog seal",
+      "category": "knife",
+      "price": 179,
+      "content": "The SEAL Pup has a partially serrated AUS-8 blade powder coated for low-reflection and corrosion resistance. Its lightweight, glass-reinforced nylon handle features a raised diamond pattern for secure gripping. Made for those who serve, the Seal Pup also performs up to the standards or people who need a strong, reliable fixed-blade knife. The SEAL Pup has a legion of fans across the globe. From the simplest job to the most harrowing, it had consistently delivered.",
+      "image": "https://e.khoahoc.tv/photos/image/2014/02/20/sog-seal-knife-2000.jpg"
+    },
+    {
+      "id": 7,
+      "name": "akmax",
+      "category": "backpack",
+      "price": 101,
+      "content": "The ALICE Large Pack consists of a pouch with draw cord closure and three outside pockets. Three more smaller pockets are provided at the top of the pouch for carrying ammunition. Of the three lower outside pockets, the two outer ones are tunneled to the pouch so that long objects can be carried between the pouch and each pocket. The lower pockets have draw cords at the top for better sealing of the pocket before closing the flap. The ALICE large pack must be used with the LC-1 Field Pack Frame.",
+      "image": "https://ae01.alicdn.com/kf/He0d41c5079df4d4c96c92e5299c73516O/Akmax-ILBE-Military-Tactical-Backpacks-Nylon-Survival-Combat-Field-Backpack-Army-Rucksack-For-Men-80L-Outdoor.jpg_Q90.jpg_.webp"
+    },
+    {
+      "id": 8,
+      "name": "pse",
+      "category": "achery",
+      "price": 349,
+      "content": "PSE Archery Fang HD Hunter Package Crossbow: Strike first and fast with FANG™ HD. Packing 400 fps performance, the FANG™ HD comes decorated in TrueTimber® Viper™ Western camouflage and includes an adjustable stock, illuminated reticle scope, quiver, bolts and cocking rope. The package is equipped with everything that is needed for immediate use .",
+      "image": "https://i.pinimg.com/564x/a8/1b/57/a81b576090488aa1d199904834958566.jpg"
+    },
+    {
+      "id": 9,
+      "name": "awm",
+      "category": "gun",
+      "price": 299,
+      "content": "Standard configurations include a Schmidt & Bender PM II 5-25×56FFP MK II telescopic sight with P4F graticule but variants with variable magnification of either 3–12×50 or 4–16×50 are also available. Accuracy International actively promotes fitting the German made Schmidt & Bender PM II/MILITARY MK II product line as sighting components on their rifles, which is rare for a rifle manufacturer. The German and Russian Army prefer a telescopic sight made by Zeiss.",
+      "image": "http://img.websosanh.vn/v2/users/root_product/images/bo-lap-rap-lego-technic-super/dfyvl4zyx1zr6.jpg"
+    },
+    {
+      "id": 10,
+      "name": "atomic",
+      "category": "achery",
+      "price": 229,
+      "content": "From first glance you can see that this is the real deal. An all-aluminum riser and fully adjustable components means you’re starting them off right. These aren’t the bows from summer camp years ago...the Atomic delivers all the engineering of an adult bow in a youth size.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJDQiB34rfOLgBl8jBwQBP6d31c045jNEOw&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "name": "bw-ack",
+      "category": "knife",
+      "price": 181,
+      "content": "A.C.K. (Advanced Combat Knife). 55SI7 Spring Steel Blade (not rustproof) With Kalgard coating. With wire scissors and Sägerücken. Reinforced nylon handle. Blade Length: 17.5 cm. The knife is delivered no longer produced. Factory new 2017 made. Very rare great military fighting knife and only available here.",
+      "image": "https://e.khoahoc.tv/photos/image/2014/02/20/BW-ACK.jpg"
+    },
+    {
+      "id": 12,
+      "name": "ar15 556",
+      "category": "gun",
+      "price": 232,
+      "content": "The Colt AR-15 is closely related to the military M16 and M4 Carbine rifles, which all share the same core design, first patented for use in the AR-10, featuring a gas-operated, rotating bolt (combined with an integral piston) instead of conventional direct impingement, operating system patented under U.S. Patent 2,951,424 by Eugene Stoner. The term \"AR-15\" is now most-commonly used to refer only to the civilian variants of the rifle which lack the fully automatic function.",
+      "image": "https://i0.wp.com/androcorpind.com/wp-content/uploads/2017/03/55616BB-3.jpg?fit=1200%2C1200&ssl=1"
+    },
+    {
+      "id": 13,
+      "name": "anubis",
+      "category": "knife",
+      "price": 323,
+      "content": "We have named this exquisite knife after Anubis as a show of honor and respect. This Damascus steel knife, with its upturned blade, is a common style used in ancient Egypt and even seen today. The blue micarta handle and red and gold band has a royal feel to it and is fit for a God or King. The finish of this Damascus steel knife is impeccable as with all Forseti Steel knives and will give you or your loved ones many years of joy.",
+      "image": "https://www.backcountry.com/images/items/1200/CKT/CKT0033/BEA.jpg"
+    },
+    {
+      "id": 14,
+      "name": "m249",
+      "category": "gun",
+      "price": 300,
+      "content": "The M249 is manufactured in the United States by the subsidiary FN Manufacturing LLC, a company in Columbia, South Carolina, and is widely used in the U.S. Armed Forces. The weapon was introduced in 1984 after being judged most effective (compared to a number of candidate weapons) to address the lack of automatic firepower in small units. The M249 provides infantry squads with a high rate of machine gun fire, combined with the accuracy and portability of a rifle.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3LX3v9DEBChRlyTOvYD67Ps4CMtDB_lDryw&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "name": "3ol",
+      "category": "backpack",
+      "price": 102,
+      "content": "Our team of hikers has designed this NH100 30-litre rucksack for use during your occasional walks in lowlands, forests and the coast in dry weather.Looking for a backpack for your adventures in the great outdoors? Our comfortable and accessorised NH100 30 L model is the ideal companion for slightly uneven walks, without compromising on style.",
+      "image": "https://cdn-amz.woka.io/images/I/51my5UO+WwL._SR476,476_.jpg"
+    },
+    {
+      "id": 16,
+      "name": "zelda",
+      "category": "achery",
+      "price": 333,
+      "content": "The Legend of Zelda Link bow and arrow toy weapons consist of a bow and an arrow. Visually, the Zelda combat equipment immediately recalls the familiar images from Nintendo's Adventure series. The brown colouring of the carnival weapons gives the game a wooden look inspired by the video game, adorned with silver arrow rests. The silver-blue feathered arrow of the Zelda license article has a flattened tip, so there is no risk of injury.",
+      "image": "https://www.zeldadungeon.net/wiki/images/1/17/Soldier%27s_Bow_-_HWAoC_icon.png"
+    },
+    {
+      "id": 17,
+      "name": "hawkeye",
+      "category": "achery",
+      "price": 323,
+      "content": "Clint Barton is one of the founding members of the Avengers - Earth's mightiest heroes in many Marvel comic book series and the Marvel Cinematic Universe. As an extremely skilled marksman that shoots his bow and arrows with incredible accuracy, Clint earned the name \"Hawkeye\" and was one of the best agents at S.H.I.E.L.D., a government intelligence agency tasked to protect national security.",
+      "image": "https://cdn.shopify.com/s/files/1/0478/9073/products/Advanced_Bow_1200x1200_crop_center.jpg?v=1571269210"
+    },
+    {
+      "id": 18,
+      "name": "surplus",
+      "category": "backpack",
+      "price": 188,
+      "content": "Military Surplus Pack was designed to be the standard issue upgrade for a Marines load carry system and able to use in conjunction with body armor. Its popularity has also grown to become a great bushcraft backpack in civilian life. The big improvement in this pack was a better, more comfortable way to transport heavy loads for active field use. The Marine Corps issue FILBE backpack system has a more conventional internal frame with a large quantity of structural back padding and support.",
+      "image": "https://sc01.alicdn.com/kf/H6653dace330049819ef9144607ec9f424/239125026/H6653dace330049819ef9144607ec9f424.jpg_.webp"
+    },
+    {
+      "id": 19,
+      "name": "python",
+      "category": "gun",
+      "price": 189,
+      "content": "The Colt Python is a .357 Magnum caliber revolver manufactured by Colt's Manufacturing Company of Hartford, Connecticut.[1] It was first introduced in 1955, the same year as Smith & Wesson's M29 .44 Magnum. The Colt Python is intended for the premium revolver market segment. Some firearm collectors and writers such as Jeff Cooper, Ian V. Hogg, Chuck Hawks, Leroy Thompson, Scott Wolber, Renee Smeets and Martin Dougherty have described the Python as \"the finest production revolver ever made\".",
+      "image": "https://www.airgunns.com/image/cache/catalog/Products/2020082509204663-550x550w.jpg"
+    },
+    {
+      "id": 20,
+      "name": "cm 11282",
+      "category": "knife",
+      "price": 134,
+      "content": "Each knife takes several hours or even days to manufacture. Over 40 successive steps are needed to realize one. The quality of the finish, the strength of the blade and the spring, the thickness of the bolsters and plates, as well as the accuracy of the calibration are the elements that contribute to its longevity. Forge de Laguiole integrates all these manufacturing steps.",
+      "image": "https://www.aceros-de-hispania.com/outdoor-navajas-knives/navajas-cuchillos-11282.jpg"
+    },
+    {
+      "id": 21,
+      "name": "factory",
+      "category": "backpack",
+      "price": 122,
+      "content": "NYLEE has a high-density foam-reinforced compartment for a laptop computer up to 14.1”. You may thus carry all your accessories and your documents given the excellent load capacity. A small front pocket on the back to store your accessories and personal items. This backpack will be your best ally during day-to-day travel. Front pocket for accessories and personal items.",
+      "image": "https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/19/7F/f6a97a7c-6252-4b65-a32c-1b745fd15a19.jpg"
+    },
+    {
+      "id": 22,
+      "name": "united",
+      "category": "knife",
+      "price": 158,
+      "content": "Knifemaker extraordinaire Gil Hibben continues to design exceptional knives made for hard, everyday use because no one knows knives better than he does! His Arizona Bowie Knife has an exceptional low profile feel with its slim blade design, perfect for slicing and penetrating tasks. It has a razor-sharp, 10” 5Cr15 stainless steel, upswept clip point blade, extending from a satin finished, stainless steel guard. The ergonomic handle is crafted of black linen Micarta with a satin finished stainless steel pommel, which has a lanyard hole.",
+      "image": "https://2sharp.nl/media/catalog/product/cache/551db79879d91c27f459c64a10f82cfe/g/h/gh5088_1_.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "ragim",
+      "category": "achery",
+      "price": 199,
+      "content": "Ragim Wildcat Plus is a recurve bow designed mainly for beginner archers. The grip is designed in a way that will keep your hand always in the right position. This will help you to avoid common beginner mistakes. The handle is made from layers of exotic wood, which gives this bow a very unique look. White limbs are also replaceable.",
+      "image": "https://i5.walmartimages.com/asr/eb091fab-25b9-4234-8b39-4e436200e016.d951b68b78f819c964ef0f3de6c49e19.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": 24,
+      "name": "rebels",
+      "category": "backpack",
+      "price": 210,
+      "content": "Besides that this trendy water-repellent backpack looks cool it also has a lot of storage space and is super comfortable. Comfortable due to the lightweight and padded back surface and the padded adjustable shoulder straps. Plenty of storage space due to the spacious main compartment that can easily be enlarged or reduced by the roll-up section at the top. This allows you to create up to 10 cm more space. The main compartment can be closed with a sturdy zipper and a slide/click closure.",
+      "image": "https://tecnicesports.com/6371-large_default/rebels-racing-backpack-s.jpg"
+    }
+  ],
+  "users": [
+    {
+      "usname": "sheyy3103",
+      "email": "Kelvinhuynhalves1102@gmail.com",
+      "password": "031003sheyy",
+      "id": 1
+    },
+    {
+      "usname": "sheyy1102",
+      "email": "Kaylanhuynhalves1102@gmail.com",
+      "password": "sheyy0310",
+      "id": 2
+    },
+    {
+      "usname": "emkhongcodon",
+      "email": "ngaymaiemdi@github.git.vn",
+      "password": "ngaymaiemdi",
+      "id": 3
+    },
+    {
+      "usname": "sheyy3103",
+      "email": "Kelvinhuynhalves1102@gmail.com",
+      "password": "12345678",
+      "id": 4
+    }
+  ]
+}

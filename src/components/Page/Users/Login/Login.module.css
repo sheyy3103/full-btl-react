@@ -1,0 +1,45 @@
+.form-text {
+    font-weight: bold;
+}
+
+.form-input {
+    border-radius: 0 !important;
+    background-color: transparent;
+    outline: none !important;
+    box-shadow: none !important;
+    width: 100%;
+}
+
+.btn-button {
+    color: white;
+    background-color: hsl(69deg 23% 33%);
+    border: 2px solid hsl(69deg 23% 33%);
+    border-radius: 0 !important;
+    width: 600px;
+    font-weight: bold;
+}
+
+.btn-button2 {
+    color: white;
+    background-color: hsl(69deg 23% 33%);
+    border: 2px solid hsl(69deg 23% 33%);
+    border-radius: 0 !important;
+    width: 395.6px;
+    font-weight: bold;
+}
+
+.err {
+    color: red;
+}
+
+.form-submit {
+    margin: 0 auto !important;
+    max-width: 600px;
+}
+@font-face {
+    font-family: fontname;
+    src: url('../../../../Assets/Fonts/GAMERIA.ttf');
+}
+.fontname{
+    font-family: 'name' !important;
+}

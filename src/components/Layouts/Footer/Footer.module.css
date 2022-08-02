@@ -1,0 +1,14 @@
+@font-face {
+    font-family: nav;
+    src: url('../../../Assets/Fonts/AmericanCaptainPatrius02Fre-PvPd.ttf');
+}
+
+.fontnav {
+    font-family: "nav" !important;
+    letter-spacing: 1px;
+}
+
+.copyright {
+    font-size: 15px;
+    letter-spacing: 2px;
+}

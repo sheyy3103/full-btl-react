@@ -1,0 +1,29 @@
+.ip-quantity{
+    border: none;
+    width: 40px;
+    text-align: center;
+    border-top: 1px solid gray !important;
+    border-bottom: 1px solid gray !important;
+}
+.btn-quantity{
+    border: 1px solid gray;
+    background-color: transparent;
+    width: 30px;
+    text-align: center;
+}
+.btn-close{
+    font-size: 30px !important;
+}
+@font-face {
+    font-family: name;
+    src: url('../../../Assets/Fonts/GAMERIA.ttf');
+}
+
+@font-face {
+    font-family: head;
+    src: url('../../../Assets/Fonts/AmericanCaptainPatrius02Fre-PvPd.ttf');
+}
+.fontname{
+    font-family: "name" !important;
+}
+
